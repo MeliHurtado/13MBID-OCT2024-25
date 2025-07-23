@@ -1,0 +1,5 @@
+outs:
+- md5: 0cbcc033214036d59c10a9502aecf78a
+  size: 1983771
+  hash: md5
+  path: df_kms_k2.csv
